@@ -1,1 +1,1 @@
-You've heard of traffic shaping?  Well Chuck Norris' packets have the highest priority, are never queued, and use a special roundhouse kick tag to drop all other packets in-route to the destination,.  His DSCP code is AK; Ass-ured Kicking.
+You've heard of traffic shaping?  Well Chuck Norris' packets have the highest priority, are never queued, and use a special roundhouse kick tag to drop all other packets in-route to the destination.  His DSCP code is AK; Ass-ured Kicking.
